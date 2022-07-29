@@ -10,3 +10,8 @@
 
 Then run
 cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
+
+
+
+https://support.cpanel.net/hc/en-us/articles/4419382481815-MySQL-GPG-keys-expired-preventing-installation-upgrade-of-MySQL-packages-from-the-official-repository-?_ga=2.173503331.1792254924.1659046436-1811324534.1657406511
+
